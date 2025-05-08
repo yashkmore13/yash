@@ -1,5 +1,4 @@
-name= YASH More
+name = "YASH More"
 print("Hello")
-print(\nGood Morning")
-print(\nname)
-      
+print("\nGood Morning")
+print("\n" + name)
